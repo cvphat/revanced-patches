@@ -1,6 +1,6 @@
 {
   "branches": [
-    "main",
+    "main-unofficial",
     {
       "name": "dev",
       "prerelease": true
