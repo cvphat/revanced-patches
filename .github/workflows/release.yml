@@ -3,11 +3,11 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - main-unofficial
       - dev
   pull_request:
     branches:
-      - main
+      - main-unofficial
       - dev
 jobs:
   release:
@@ -33,7 +33,7 @@ jobs:
       - name: Install Android build-tools
         run: sdkmanager "build-tools;32.0.0"
       - name: Setup semantic-release
-        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog gradle-semantic-release-plugin -D
+        run: npm install -g semantic-release @semantic-release/git gradle-semantic-release-plugin -D
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -20,8 +20,6 @@
       {
         "assets": [
           "README.md",
-          "CHANGELOG.md",
-          "gradle.properties",
           "patches.json"
         ]
       }
