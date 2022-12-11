@@ -18,7 +18,6 @@
       {
         "assets": [
           "README.md",
-          "gradle.properties",
           "patches.json"
         ]
       }
