@@ -12,13 +12,13 @@
         {"type": "build", "release": "patch"}
       ]
     }],
-    "@semantic-release/release-notes-generator",
     "gradle-semantic-release-plugin",
     [
       "@semantic-release/git",
       {
         "assets": [
           "README.md",
+          "gradle.properties",
           "patches.json"
         ]
       }
