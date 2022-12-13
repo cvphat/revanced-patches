@@ -34,6 +34,12 @@
           }
         ]
       }
+    ],
+    [
+      "@saithodev/semantic-release-backmerge",
+      {
+        "branches": ["dev"]
+      }
     ]
   ]
 }
