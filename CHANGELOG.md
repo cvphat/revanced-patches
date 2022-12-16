@@ -1,3 +1,21 @@
+# [2.141.0](https://github.com/cvphat/revanced-patches/compare/v2.140.0...v2.141.0) (2022-12-16)
+
+
+### Bug Fixes
+
+* inconsistencies in preference switches ([#1207](https://github.com/cvphat/revanced-patches/issues/1207)) ([b6ea5a4](https://github.com/cvphat/revanced-patches/commit/b6ea5a43b3eec6a06c7514cd79569b97a2b7d333))
+* **predictive-back-gesture:** create attribute, if it does not exist ([c00e771](https://github.com/cvphat/revanced-patches/commit/c00e7717053f806e3b5b3f0bf0ca9c2da07c289b))
+
+
+### Features
+
+* `predictive-back-gesture` patch ([#1236](https://github.com/cvphat/revanced-patches/issues/1236)) ([11b59f7](https://github.com/cvphat/revanced-patches/commit/11b59f767c94514d49a84593618ff9d2aace2636))
+* **citra:** add compatibility for canary package ([#1256](https://github.com/cvphat/revanced-patches/issues/1256)) ([42ec021](https://github.com/cvphat/revanced-patches/commit/42ec0218d829ea15759f83562d24588ce97cb646))
+* link packages to Google PlayStore ([#1272](https://github.com/cvphat/revanced-patches/issues/1272)) ([97892e0](https://github.com/cvphat/revanced-patches/commit/97892e01044c74916375aeebcc094d3304e14f4e))
+* **sleepasandroid:** remove `unlock-premium` patch ([#1253](https://github.com/cvphat/revanced-patches/issues/1253)) ([414f503](https://github.com/cvphat/revanced-patches/commit/414f503e493f2dc27edf134f5db723da77636d81))
+* **twitch/block-embedded-ads:** `block-embedded-ads` patch ([#1166](https://github.com/cvphat/revanced-patches/issues/1166)) ([018606e](https://github.com/cvphat/revanced-patches/commit/018606e9832c43836b6b8f4fbd623adb8876d162))
+* **youtube/return-youtube-dislike:** simplify preference descriptions ([#1216](https://github.com/cvphat/revanced-patches/issues/1216)) ([514b5da](https://github.com/cvphat/revanced-patches/commit/514b5da9a7de6f8d0b0d00ec6269f836df3e9333))
+
 # [2.144.0](https://github.com/revanced/revanced-patches/compare/v2.143.0...v2.144.0) (2022-12-15)
 
 
