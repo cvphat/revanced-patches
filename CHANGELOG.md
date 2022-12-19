@@ -1,3 +1,69 @@
+# [2.146.0](https://github.com/revanced/revanced-patches/compare/v2.145.0...v2.146.0) (2022-12-18)
+
+
+### Features
+
+* **predictive-back-gesture:** exclude by default ([176d34b](https://github.com/revanced/revanced-patches/commit/176d34b2ff92d0eb627dad86ad87f559df3db815))
+* **twitter/timeline-ads:** add clarifying notice to description ([0eca2af](https://github.com/revanced/revanced-patches/commit/0eca2af1a4a688903c61ff6469ffea90c60f06a6))
+* **youtube:** bump patches compatibility to v17.49.37 ([83ebc73](https://github.com/revanced/revanced-patches/commit/83ebc731130d3d216ac4b815382d8f13548cf665))
+
+# [2.146.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.145.0...v2.146.0-dev.1) (2022-12-18)
+
+
+### Features
+
+* **predictive-back-gesture:** exclude by default ([176d34b](https://github.com/revanced/revanced-patches/commit/176d34b2ff92d0eb627dad86ad87f559df3db815))
+* **twitter/timeline-ads:** add clarifying notice to description ([0eca2af](https://github.com/revanced/revanced-patches/commit/0eca2af1a4a688903c61ff6469ffea90c60f06a6))
+* **youtube:** bump patches compatibility to v17.49.37 ([83ebc73](https://github.com/revanced/revanced-patches/commit/83ebc731130d3d216ac4b815382d8f13548cf665))
+
+# [2.145.0](https://github.com/revanced/revanced-patches/compare/v2.144.0...v2.145.0) (2022-12-18)
+
+
+### Bug Fixes
+
+* **tiktok/settings:** make compatible with newer versions ([c88740d](https://github.com/revanced/revanced-patches/commit/c88740dc2bf040747d9704d5bed52a7b533c22d6))
+
+
+### Features
+
+* **crunchyroll:** remove `enable-downloads` patch ([2ac1546](https://github.com/revanced/revanced-patches/commit/2ac15460f5734fc2c6d2d78d34083a8e6b2f7012))
+* **youtube-music:** bump compatibility to 5.36.51 ([c4a3099](https://github.com/revanced/revanced-patches/commit/c4a3099c1ca39431fba9beb94cc2b43e260561d9))
+
+# [2.145.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.144.0...v2.145.0-dev.1) (2022-12-18)
+
+
+### Bug Fixes
+
+* **tiktok/settings:** make compatible with newer versions ([c88740d](https://github.com/revanced/revanced-patches/commit/c88740dc2bf040747d9704d5bed52a7b533c22d6))
+
+
+### Features
+
+* **crunchyroll:** remove `enable-downloads` patch ([2ac1546](https://github.com/revanced/revanced-patches/commit/2ac15460f5734fc2c6d2d78d34083a8e6b2f7012))
+* **youtube-music:** bump compatibility to 5.36.51 ([c4a3099](https://github.com/revanced/revanced-patches/commit/c4a3099c1ca39431fba9beb94cc2b43e260561d9))
+
+# [2.144.0](https://github.com/revanced/revanced-patches/compare/v2.143.0...v2.144.0) (2022-12-15)
+
+
+### Features
+
+* **citra:** add compatibility for canary package ([#1256](https://github.com/revanced/revanced-patches/issues/1256)) ([42ec021](https://github.com/revanced/revanced-patches/commit/42ec0218d829ea15759f83562d24588ce97cb646))
+* link packages to Google PlayStore ([#1272](https://github.com/revanced/revanced-patches/issues/1272)) ([97892e0](https://github.com/revanced/revanced-patches/commit/97892e01044c74916375aeebcc094d3304e14f4e))
+
+# [2.144.0-dev.2](https://github.com/revanced/revanced-patches/compare/v2.144.0-dev.1...v2.144.0-dev.2) (2022-12-15)
+
+
+### Features
+
+* link packages to Google PlayStore ([#1272](https://github.com/revanced/revanced-patches/issues/1272)) ([97892e0](https://github.com/revanced/revanced-patches/commit/97892e01044c74916375aeebcc094d3304e14f4e))
+
+# [2.144.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.143.0...v2.144.0-dev.1) (2022-12-15)
+
+
+### Features
+
+* **citra:** add compatibility for canary package ([#1256](https://github.com/revanced/revanced-patches/issues/1256)) ([42ec021](https://github.com/revanced/revanced-patches/commit/42ec0218d829ea15759f83562d24588ce97cb646))
+
 # [2.143.0](https://github.com/revanced/revanced-patches/compare/v2.142.0...v2.143.0) (2022-12-14)
 
 
