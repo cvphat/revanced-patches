@@ -1,3 +1,68 @@
+# [2.152.0](https://github.com/revanced/revanced-patches/compare/v2.151.0...v2.152.0) (2023-01-04)
+
+
+### Features
+
+* **youtube/copy-video-url:** match icon style with native icon ([#1419](https://github.com/revanced/revanced-patches/issues/1419)) ([e89e54c](https://github.com/revanced/revanced-patches/commit/e89e54c316a2d99195d2b79e9176d34f6de0113c))
+
+# [2.152.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.151.0...v2.152.0-dev.1) (2023-01-02)
+
+
+### Features
+
+* **youtube/copy-video-url:** match icon style with native icon ([#1419](https://github.com/revanced/revanced-patches/issues/1419)) ([e89e54c](https://github.com/revanced/revanced-patches/commit/e89e54c316a2d99195d2b79e9176d34f6de0113c))
+
+# [2.151.0](https://github.com/revanced/revanced-patches/compare/v2.150.0...v2.151.0) (2022-12-31)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** restore swipe back to exit gesture ([#1405](https://github.com/revanced/revanced-patches/issues/1405)) ([2440587](https://github.com/revanced/revanced-patches/commit/24405877dd935a757fa61c7580887c1a47a25ea9))
+
+
+### Features
+
+* **youtube:** `copy-video-url` patch ([#1402](https://github.com/revanced/revanced-patches/issues/1402)) ([bf982e8](https://github.com/revanced/revanced-patches/commit/bf982e8d7765c2a89a5475b6db8b203a3ac4ddf9))
+
+# [2.151.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.150.0...v2.151.0-dev.1) (2022-12-31)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** restore swipe back to exit gesture ([#1405](https://github.com/revanced/revanced-patches/issues/1405)) ([2440587](https://github.com/revanced/revanced-patches/commit/24405877dd935a757fa61c7580887c1a47a25ea9))
+
+
+### Features
+
+* **youtube:** `copy-video-url` patch ([#1402](https://github.com/revanced/revanced-patches/issues/1402)) ([bf982e8](https://github.com/revanced/revanced-patches/commit/bf982e8d7765c2a89a5475b6db8b203a3ac4ddf9))
+
+# [2.150.0](https://github.com/revanced/revanced-patches/compare/v2.149.0...v2.150.0) (2022-12-31)
+
+
+### Bug Fixes
+
+* **youtube/bottom-controls-resource-patch:** use correct length for `nameSpaceLength` ([#1401](https://github.com/revanced/revanced-patches/issues/1401)) ([7190066](https://github.com/revanced/revanced-patches/commit/7190066a8ded8b59970483a81d7902526d552093))
+* **youtube/general-ads:** resolve fingerprint to correct method ([#1404](https://github.com/revanced/revanced-patches/issues/1404)) ([e135485](https://github.com/revanced/revanced-patches/commit/e1354852501cb582549cbf0634b1a15e1d0012d9))
+
+
+### Features
+
+* **youtube/return-youtube-dislike:** better formatting and LTR support  ([#1370](https://github.com/revanced/revanced-patches/issues/1370)) ([fd0fe1c](https://github.com/revanced/revanced-patches/commit/fd0fe1c86ca99e395d340e85f4f1eb7b221e90ea))
+
+## [2.149.1-dev.2](https://github.com/revanced/revanced-patches/compare/v2.149.1-dev.1...v2.149.1-dev.2) (2022-12-31)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** resolve fingerprint to correct method ([#1404](https://github.com/revanced/revanced-patches/issues/1404)) ([e135485](https://github.com/revanced/revanced-patches/commit/e1354852501cb582549cbf0634b1a15e1d0012d9))
+
+## [2.149.1-dev.1](https://github.com/revanced/revanced-patches/compare/v2.149.0...v2.149.1-dev.1) (2022-12-30)
+
+
+### Bug Fixes
+
+* **youtube/bottom-controls-resource-patch:** use correct length for `nameSpaceLength` ([#1401](https://github.com/revanced/revanced-patches/issues/1401)) ([7190066](https://github.com/revanced/revanced-patches/commit/7190066a8ded8b59970483a81d7902526d552093))
+
 # [2.149.0](https://github.com/revanced/revanced-patches/compare/v2.148.0...v2.149.0) (2022-12-30)
 
 
