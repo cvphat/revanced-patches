@@ -219,7 +219,7 @@ The official Patch bundle provided by ReVanced and the community.
 | `unlock-prime` | Unlocks Nova Prime and all functions of the app. | all |
 </details>
 
-### [📦 `com.awedea.nyx`](https://play.google.com/store/apps/details?id=com.awedea.nyx)
+### [📦 `co.windyapp.android`](https://play.google.com/store/apps/details?id=co.windyapp.android)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -227,7 +227,7 @@ The official Patch bundle provided by ReVanced and the community.
 | `unlock-pro` | Unlocks all pro features. | all |
 </details>
 
-### [📦 `co.windyapp.android`](https://play.google.com/store/apps/details?id=co.windyapp.android)
+### [📦 `com.awedea.nyx`](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
