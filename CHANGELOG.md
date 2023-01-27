@@ -1,3 +1,136 @@
+# [2.156.0](https://github.com/revanced/revanced-patches/compare/v2.155.0...v2.156.0) (2023-01-17)
+
+
+### Bug Fixes
+
+* **reddit/general-reddit-ads:** specify last version that works correctly ([#1495](https://github.com/revanced/revanced-patches/issues/1495)) ([2a3bedd](https://github.com/revanced/revanced-patches/commit/2a3bedd5608d2f23b174c4227ac167e44e54215e))
+
+
+### Features
+
+* explain how to capture crash logs [skip ci] ([f938ba8](https://github.com/revanced/revanced-patches/commit/f938ba81ec98f06f508dbdceeabd29a0ea7bf1af))
+* **id-austria:** `remove-root-detection` patch ([3cf77cd](https://github.com/revanced/revanced-patches/commit/3cf77cdb4ebbd128d29eedefa1ee35289e3c8058))
+* **id-austria:** `spoof-signature` patch ([355a847](https://github.com/revanced/revanced-patches/commit/355a847b1ccd69c4ab2c356395c97b4871e53f1f))
+* **nova-launcher:** `unlock-prime` patch ([#1463](https://github.com/revanced/revanced-patches/issues/1463)) ([cf710b2](https://github.com/revanced/revanced-patches/commit/cf710b27740cce4b9a0fbdf03a494eb8c65246da))
+
+# [2.156.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.155.1-dev.1...v2.156.0-dev.1) (2023-01-17)
+
+
+### Features
+
+* explain how to capture crash logs [skip ci] ([f938ba8](https://github.com/revanced/revanced-patches/commit/f938ba81ec98f06f508dbdceeabd29a0ea7bf1af))
+* **id-austria:** `remove-root-detection` patch ([3cf77cd](https://github.com/revanced/revanced-patches/commit/3cf77cdb4ebbd128d29eedefa1ee35289e3c8058))
+* **id-austria:** `spoof-signature` patch ([355a847](https://github.com/revanced/revanced-patches/commit/355a847b1ccd69c4ab2c356395c97b4871e53f1f))
+* **nova-launcher:** `unlock-prime` patch ([#1463](https://github.com/revanced/revanced-patches/issues/1463)) ([cf710b2](https://github.com/revanced/revanced-patches/commit/cf710b27740cce4b9a0fbdf03a494eb8c65246da))
+
+## [2.155.1-dev.1](https://github.com/revanced/revanced-patches/compare/v2.155.0...v2.155.1-dev.1) (2023-01-15)
+
+
+### Bug Fixes
+
+* **reddit/general-reddit-ads:** specify last version that works correctly ([#1495](https://github.com/revanced/revanced-patches/issues/1495)) ([2a3bedd](https://github.com/revanced/revanced-patches/commit/2a3bedd5608d2f23b174c4227ac167e44e54215e))
+
+# [2.155.0](https://github.com/revanced/revanced-patches/compare/v2.154.0...v2.155.0) (2023-01-15)
+
+
+### Bug Fixes
+
+* bump patcher dependency version ([a5d16d7](https://github.com/revanced/revanced-patches/commit/a5d16d7a22168b519180684e0efa3b0450915d7b))
+* **youtube/open-links-directly:** use better titles and correct descriptions ([#1488](https://github.com/revanced/revanced-patches/issues/1488)) ([2874bbe](https://github.com/revanced/revanced-patches/commit/2874bbef154d28e56b5928048a255409a956a012))
+
+
+### Features
+
+* **youtube:** remove `fix-playback` patch ([edcb6cc](https://github.com/revanced/revanced-patches/commit/edcb6cc94961aaebe2df884db3049b2afa79f38f))
+
+# [2.155.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.154.1-dev.1...v2.155.0-dev.1) (2023-01-15)
+
+
+### Features
+
+* **youtube:** remove `fix-playback` patch ([edcb6cc](https://github.com/revanced/revanced-patches/commit/edcb6cc94961aaebe2df884db3049b2afa79f38f))
+
+## [2.154.1-dev.1](https://github.com/revanced/revanced-patches/compare/v2.154.0...v2.154.1-dev.1) (2023-01-15)
+
+
+### Bug Fixes
+
+* **youtube/open-links-directly:** use better titles and correct descriptions ([#1488](https://github.com/revanced/revanced-patches/issues/1488)) ([2874bbe](https://github.com/revanced/revanced-patches/commit/2874bbef154d28e56b5928048a255409a956a012))
+
+# [2.154.0](https://github.com/revanced/revanced-patches/compare/v2.153.0...v2.154.0) (2023-01-13)
+
+
+### Bug Fixes
+
+* **youtube/hide-info-cards:** allow toggling visibility of info-cards ([#1464](https://github.com/revanced/revanced-patches/issues/1464)) ([e6dcb55](https://github.com/revanced/revanced-patches/commit/e6dcb55382441f03c4b1322ccd652a22db104254))
+
+
+### Features
+
+* `remove-screenshot-restriction` patch ([#1455](https://github.com/revanced/revanced-patches/issues/1455)) ([a16ab79](https://github.com/revanced/revanced-patches/commit/a16ab7969d98b1e05ac896a4b9aa834cdac8734e))
+* **music:** update patches compatibility to v5.38.53 ([#1453](https://github.com/revanced/revanced-patches/issues/1453)) ([c7d116a](https://github.com/revanced/revanced-patches/commit/c7d116afd7293924760e7b6c1de0ba5d6cbd00a0))
+* **music:** update patches compatibility to v5.39.52 ([#1484](https://github.com/revanced/revanced-patches/issues/1484)) ([81d6527](https://github.com/revanced/revanced-patches/commit/81d65273be81b5934e1cca543850db58f8df019e))
+* **tiktok:** update patches compatibility to v27.8.3 ([#1483](https://github.com/revanced/revanced-patches/issues/1483)) ([e72b3bd](https://github.com/revanced/revanced-patches/commit/e72b3bd4e22f5ade7193ba6a3cdf61fcd91fba55))
+* **youtube/return-youtube-dislike:** style for minimum width ([#1454](https://github.com/revanced/revanced-patches/issues/1454)) ([fd782aa](https://github.com/revanced/revanced-patches/commit/fd782aa0a37edf2344425c80afafb2c87851bc1a))
+* **youtube:** `spoof-app-version` patch ([#1449](https://github.com/revanced/revanced-patches/issues/1449)) ([bd4d3b5](https://github.com/revanced/revanced-patches/commit/bd4d3b5706f26e398292df952ca8aec6c7dd1d6a))
+
+# [2.154.0-dev.3](https://github.com/revanced/revanced-patches/compare/v2.154.0-dev.2...v2.154.0-dev.3) (2023-01-13)
+
+
+### Features
+
+* **tiktok:** update patches compatibility to v27.8.3 ([#1483](https://github.com/revanced/revanced-patches/issues/1483)) ([e72b3bd](https://github.com/revanced/revanced-patches/commit/e72b3bd4e22f5ade7193ba6a3cdf61fcd91fba55))
+
+# [2.154.0-dev.2](https://github.com/revanced/revanced-patches/compare/v2.154.0-dev.1...v2.154.0-dev.2) (2023-01-13)
+
+
+### Features
+
+* **music:** update patches compatibility to v5.39.52 ([#1484](https://github.com/revanced/revanced-patches/issues/1484)) ([81d6527](https://github.com/revanced/revanced-patches/commit/81d65273be81b5934e1cca543850db58f8df019e))
+
+# [2.154.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.153.0...v2.154.0-dev.1) (2023-01-10)
+
+
+### Bug Fixes
+
+* **youtube/hide-info-cards:** allow toggling visibility of info-cards ([#1464](https://github.com/revanced/revanced-patches/issues/1464)) ([e6dcb55](https://github.com/revanced/revanced-patches/commit/e6dcb55382441f03c4b1322ccd652a22db104254))
+
+
+### Features
+
+* `remove-screenshot-restriction` patch ([#1455](https://github.com/revanced/revanced-patches/issues/1455)) ([a16ab79](https://github.com/revanced/revanced-patches/commit/a16ab7969d98b1e05ac896a4b9aa834cdac8734e))
+* **music:** update patches compatibility to v5.38.53 ([#1453](https://github.com/revanced/revanced-patches/issues/1453)) ([c7d116a](https://github.com/revanced/revanced-patches/commit/c7d116afd7293924760e7b6c1de0ba5d6cbd00a0))
+* **youtube/return-youtube-dislike:** style for minimum width ([#1454](https://github.com/revanced/revanced-patches/issues/1454)) ([fd782aa](https://github.com/revanced/revanced-patches/commit/fd782aa0a37edf2344425c80afafb2c87851bc1a))
+* **youtube:** `spoof-app-version` patch ([#1449](https://github.com/revanced/revanced-patches/issues/1449)) ([bd4d3b5](https://github.com/revanced/revanced-patches/commit/bd4d3b5706f26e398292df952ca8aec6c7dd1d6a))
+
+# [2.153.0](https://github.com/revanced/revanced-patches/compare/v2.152.0...v2.153.0) (2023-01-07)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** move settings to correct preference screens ([cde45fc](https://github.com/revanced/revanced-patches/commit/cde45fca769eddea64072f13f836d46560a4a89a))
+
+
+### Features
+
+* **youtube/remember-video-quality:** simplify settings switch state description ([9bd42ec](https://github.com/revanced/revanced-patches/commit/9bd42ec1a1b54b103cd2550211515acdaf90e9de))
+* **youtube:** `remember-playback-rate` patch ([177e908](https://github.com/revanced/revanced-patches/commit/177e908dba260f184a2835b73b834563ca9c29fd))
+
+# [2.153.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.152.1-dev.1...v2.153.0-dev.1) (2023-01-07)
+
+
+### Features
+
+* **youtube/remember-video-quality:** simplify settings switch state description ([9bd42ec](https://github.com/revanced/revanced-patches/commit/9bd42ec1a1b54b103cd2550211515acdaf90e9de))
+* **youtube:** `remember-playback-rate` patch ([177e908](https://github.com/revanced/revanced-patches/commit/177e908dba260f184a2835b73b834563ca9c29fd))
+
+## [2.152.1-dev.1](https://github.com/revanced/revanced-patches/compare/v2.152.0...v2.152.1-dev.1) (2023-01-07)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** move settings to correct preference screens ([cde45fc](https://github.com/revanced/revanced-patches/commit/cde45fca769eddea64072f13f836d46560a4a89a))
+
 # [2.152.0](https://github.com/revanced/revanced-patches/compare/v2.151.0...v2.152.0) (2023-01-04)
 
 
